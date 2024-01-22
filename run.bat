@@ -1,1 +1,0 @@
-java -jar exe3-server.jar

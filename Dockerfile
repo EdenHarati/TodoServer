@@ -1,4 +1,4 @@
 FROM openjdk:8
 WORKDIR /app
-COPY target/gs-spring-boot-0.1.0.jar /app
-ENTRYPOINT ["java", "-jar", "gs-spring-boot-0.1.0.jar"]
+COPY target/exe3-server-edenharati-313198939-final-1.0-SNAPSHOT.jar /app
+ENTRYPOINT ["java", "-jar", "exe3-server-edenharati-313198939-final-1.0-SNAPSHOT.jar"]
